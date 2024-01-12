@@ -1,9 +1,9 @@
 # iTravel
 Authors:
-1. Daniel Yoshida (dtyoshid@csu.fullerton.edu)
-2. Parth Sharma (parthsharma@csu.fullerton.edu)
-3. Marco Gabriel (marcog10@csu.fullerton.edu)
-4. Diego Barrales (diego.barrales@csu.fullerton.edu)
+1. Daniel Yoshida
+2. Parth Sharma
+3. Marco Gabriel
+4. Diego Barrales
 
 ## Background and motivation
 This project is aimed at solving a problem that comes with traveling and being able to find all of the necessary information without having to walk around the entire airport and asking someone for help in another country, if necessary. Our application is attempt to address how to make traveling simpler and stress-free without the constant need to be worried about a missed flight or being over-weighed on a luggage.
